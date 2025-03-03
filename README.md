@@ -61,15 +61,6 @@ result, entropies, tokens = entropy_based_cot_injection_with_logging(
 )
 print(result)
 ```
-
-## Requirements
-
-- Python 3.8+
-- PyTorch
-- Transformers
-- BitsAndBytes (for quantization)
-- Accelerate
-
 ## License
 
 This project is licensed under the terms of the MIT license.
